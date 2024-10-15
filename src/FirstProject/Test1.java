@@ -9,7 +9,8 @@ public class Test1 {
 	}
 	
 	public void printmessage() {
-		System.out.println("This is to store in Git folder");
+		System.out.println("This is to store in Git folder" + "Ananya");
+		System.out.println("abc");
 	}
 
 }
